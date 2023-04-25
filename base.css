@@ -24,7 +24,7 @@ body {
     padding: 10px 20px 0px;
 }
 .cabecalho {
-    background-color: rgb(5, 108, 108);
+    
     min-height: 150px;
 }
 .conteudo {
@@ -33,6 +33,7 @@ body {
     padding: 20px;
 }
 .rodape {
-    background-color: rgb(99, 56, 240);
+    
     min-height: 150px;
+    
 }
