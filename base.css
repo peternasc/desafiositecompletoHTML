@@ -11,7 +11,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    
 }
 .principal {
     display: flex;
@@ -33,7 +33,7 @@ body {
     padding: 20px;
 }
 .rodape {
-    
+    padding: 0 20px;
     min-height: 150px;
     
 }
