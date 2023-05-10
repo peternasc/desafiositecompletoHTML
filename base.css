@@ -37,3 +37,8 @@ body {
     min-height: 150px;
     
 }
+
+img{
+    margin: auto;
+    width: 100%;
+}
